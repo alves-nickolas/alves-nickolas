@@ -1,4 +1,8 @@
-## Hi there 👋
+## Níck
+
+Hello, there! I am Níckolas de Aguiar Alves (he/him), a theoretical physicist. I am a PhD student at the Federal University of ABC. I work in the interface between quantum mechanics and gravitation. My interests are focused on general relativity, quantum field theory in curved spacetime, and general aspects of quantum gravity.
+
+A lot of information about me and my work is available on [my website](https://alves-nickolas.github.io/). Across the remaining repositories in my GitHub you will be able to find a few parallel works. Most of them are LaTeX templates I wrote for personal use and chose to make available.
 
 <!--
 **alves-nickolas/alves-nickolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
